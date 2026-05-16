@@ -1,0 +1,29 @@
+//instalaciones y creación de pipeline - Modelo MDV
+mkdir si quiero crear la carpeta desde la terminal
+En la terminal correr npm init -y 
+en la Terminal correr npm install uuid
+npm start
+Crear carpetas solicitadas y archivos vacios, ponerle a los json datos iniciales 
+Crear el server.js y copiar 
+//SERVIDOR
+importar módulo net
+//Controlador ** gestionar la comunicación entre el usuario y la lógica de negocio.
+Hay que definir que el archivo del controlador linkee los archivos de Views y Model se establece una constate y para que requiera el archivo 
+const bookModel = require('../models/bookModel');
+const bookViews = require('../views/bookViews');
+- Se establecen las funciones y  por ultimo se exporta apra que pueda ser usado por los demás archivos de la estructura
+//Crear datos en el json
+[{},{}]
+//MODELO Es la cocina donde se prepara todo, lo que lleva el controller 
+aca se establecen los metodos para leer y escribir los json
+//VIEWS
+Su función es tomar los datos puros y darles un formato amigable antes de enviarlos. Aca damos como el formato
+//SERVIDOR TCP
+Cliente y el servidor hacen la mayoria de cosas
+
+
+//Test
+
+control + c destruye la conexion del servidor en la terminal
+
+Tema de correspondecia entre los datos que se solicitan al cliente y lo que el controller hace 

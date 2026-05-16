@@ -1,0 +1,20 @@
+[
+  {
+    "id": "book-001",
+    "title": "Cien años de soledad",
+    "authorId": "aut-001",
+    "publishedYear": 1967,
+    "publisherId": "pub-001",
+    "genero": "Novela",
+    "status": "disponible"
+  },
+  {
+    "id": "2720341d-cd16-46a7-9480-e37c0ca17eb6",
+    "title": "fet",
+    "authorId": "1e107f13-00af-4c02-a136-c5b7966eea75",
+    "publisherId": "68c537a3-3922-4808-8477-c6ee3aeec0f1",
+    "publishedYear": 1235,
+    "genero": "Varios",
+    "status": "disponible"
+  }
+]
